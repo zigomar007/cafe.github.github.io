@@ -1,0 +1,43 @@
+﻿@font-face{
+	font-family:'Al-Kharashi';
+	
+	src:
+	url('fonts/fontawesome-webfont.eot?v=4.7.0');
+	
+	src:
+	url('../fonts/amiri-bold.ttf') format('truetype'),
+	url('fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'),
+	url('fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'),
+	url('fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'),
+	url('fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
+	//decotype-naskh
+	//b-karim-bold
+	//
+	//arbaeen
+	//al-quranalkareem
+	font-weight:bold;
+	font-style:normal
+	
+	}
+	
+	
+	@font-face {
+	font-family: 'UltraRegular';
+	src: url('../fonts/ultra-webfont.eot');
+	src: url('../fonts/ultra-webfont.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/ultra-webfont.woff') format('woff'),
+	url('../fonts/ultra-webfont.ttf') format('truetype'),
+	url('../fonts/ultra-webfont.svg#UltraRegular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'open_sansregular';
+	src: url('../fonts/opensans-regular-webfont.eot');
+	src: url('../fonts/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/opensans-regular-webfont.woff') format('woff'),
+	url('../opensans-regular-webfont.ttf') format('truetype'),
+	url('../opensans-regular-webfont.svg#open_sansregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
