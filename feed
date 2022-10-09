@@ -3,7 +3,7 @@
 <channel>
 <atom:link type="application/rss+xml" rel="self" href="https://zigomar007.github.io/rss-reader"/>
 <title>قهوة زيقومار</title>
-<a href="https://zigomar007.github.io/rss-reader/" target="_blank">قهوة زيقومار</a>
+<a href="https://cafezigomar.cf" target="_blank">قهوة زيقومار</a>
 <managingEditor>apps.support@aljazeera.net (Apps Support)</managingEditor>
 <webMaster>apps.support@https://zigomar007.github.io/rss-reader (Apps Support)</webMaster>
 <description>قهوة زيقومار: آخر الأخبار</description>
@@ -11,21 +11,21 @@
 <lastBuildDate>jeudi, 28 Oct 2022 20:54:49 +0000</lastBuildDate>
 <language>ar</language>
 <image>
-<url>1.jpg</url>
+<url>https://cafezigomar.cf/images/coffee2.jpg</url>
 <title>الجزيرة نت</title>
-<link>https://www.cafezigomar.cf</link>
+<link>https://cafezigomar.cf</link>
 <description>قهوة زيقومار: آخر أخبار اليوم</description>
 </image>
 <author>بقلم : زيقومار</author>
 <generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-<link>https://zigomar007.github.io/rss-reader</link>
+<link>https://cafezigomar.cf</link>
 
  <title>مسلسل جديد بنكهة رمضان زمان..الاصلية !</title>
 <description>
-<p><img alt="la Deux" src="1.jpg" style="width: 600px;" />
- <img alt="" src="1.jpg"/>
- </p> <img src="1.jpg" alt="le café"/>
+<p><img alt="la Deux" src="https://cafezigomar.cf/images/coffee2.jpg" style="width: 600px;" />
+ <img alt="" src="/coffee2.jpg"/>
+ </p> <img src="https://cafezigomar.cf/images/coffee2.jpg" alt="le café"/>
 كورسة متاع 11 سنة عرفت شلة متجددة متاع شخصيات تحتفل بقهوتها الاسبوعية مع السرفور حوسين. تقدم مجموعة شخصيات تتمنى تخرج معاها كل أسبوع، مكان تنجم تستعملو ديما وكل يوم من غير ما يولي ممل (متروك)، وسلسلة متاع مشاكل الي الناس يحبو يلمسوها باش يشوفوها تتحل.
 
 </description>
