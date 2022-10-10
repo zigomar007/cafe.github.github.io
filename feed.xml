@@ -1,6 +1,6 @@
 <rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
-<atom:link type="application/rss+xml" rel="self" href="https://cafezigomar.cf/feed"/>
+<atom:link type="application/rss+xml" rel="self" href="https://cafezigomar.cf/feed.xml"/>
 <title>قهوة زيقومار</title>
 <a href="https://cafezigomar.cf" target="_blank">قهوة زيقومار</a>
 <managingEditor>apps.support@aljazeera.net (Apps Support)</managingEditor>
